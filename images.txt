@@ -1,1 +1,1 @@
-quay.io/openstack.kolla/haproxy:2023.2-rocky-9
+registry-1.docker.io/kolla/centos-source-swift-base:train
