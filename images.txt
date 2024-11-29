@@ -1,5 +1,3 @@
-quay.io/openstack.kolla/centos-source-haproxy:yoga
-quay.io/openstack.kolla/centos-source-heat-all:yoga
 quay.io/openstack.kolla/centos-source-heat-api:yoga
 quay.io/openstack.kolla/centos-source-heat-api-cfn:yoga
 quay.io/openstack.kolla/centos-source-heat-base:yoga
