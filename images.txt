@@ -1,1 +1,1 @@
-quay.io/openstack.kolla/centos-source-nova-base
+quay.io/openstack.kolla/centos-source-kolla-toolbox:train
