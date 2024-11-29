@@ -1,15 +1,3 @@
-quay.io/openstack.kolla/centos-source-logstash:train
-quay.io/openstack.kolla/centos-source-logstash6:train
-quay.io/openstack.kolla/centos-source-magnum-api:train
-quay.io/openstack.kolla/centos-source-magnum-base:train
-quay.io/openstack.kolla/centos-source-magnum-conductor:train
-quay.io/openstack.kolla/centos-source-manila-api:train
-quay.io/openstack.kolla/centos-source-manila-base:train
-quay.io/openstack.kolla/centos-source-manila-data:train
-quay.io/openstack.kolla/centos-source-manila-scheduler:train
-quay.io/openstack.kolla/centos-source-manila-share:train
-quay.io/openstack.kolla/centos-source-mariadb:train
-quay.io/openstack.kolla/centos-source-mariadb-base:train
 quay.io/openstack.kolla/centos-source-mariadb-clustercheck:train
 quay.io/openstack.kolla/centos-source-mariadb-server:train
 quay.io/openstack.kolla/centos-source-masakari-api:train
