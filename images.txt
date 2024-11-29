@@ -1,4 +1,3 @@
-quay.io/openstack.kolla/centos-source-neutron-server-ovn:yoga
 quay.io/openstack.kolla/centos-source-neutron-sriov-agent:yoga
 quay.io/openstack.kolla/centos-source-nova-api:yoga
 quay.io/openstack.kolla/centos-source-nova-base:yoga
