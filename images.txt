@@ -1,7 +1,3 @@
-quay.io/openstack.kolla/centos-source-nova-novncproxy:yoga
-quay.io/openstack.kolla/centos-source-nova-scheduler:yoga
-quay.io/openstack.kolla/centos-source-nova-serialproxy:yoga
-quay.io/openstack.kolla/centos-source-nova-spicehtml5proxy:yoga
 quay.io/openstack.kolla/centos-source-nova-ssh:yoga
 quay.io/openstack.kolla/centos-source-octavia-api:yoga
 quay.io/openstack.kolla/centos-source-octavia-base:yoga
