@@ -1,12 +1,3 @@
-quay.io/openstack.kolla/centos-source-magnum-api:yoga
-quay.io/openstack.kolla/centos-source-magnum-base:yoga
-quay.io/openstack.kolla/centos-source-magnum-conductor:yoga
-quay.io/openstack.kolla/centos-source-manila-api:yoga
-quay.io/openstack.kolla/centos-source-manila-base:yoga
-quay.io/openstack.kolla/centos-source-manila-data:yoga
-quay.io/openstack.kolla/centos-source-manila-scheduler:yoga
-quay.io/openstack.kolla/centos-source-manila-share:yoga
-quay.io/openstack.kolla/centos-source-mariadb:yoga
 quay.io/openstack.kolla/centos-source-mariadb-base:yoga
 quay.io/openstack.kolla/centos-source-mariadb-clustercheck:yoga
 quay.io/openstack.kolla/centos-source-mariadb-server:yoga
