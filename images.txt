@@ -1,12 +1,3 @@
-quay.io/openstack.kolla/centos-source-neutron-sriov-agent:yoga
-quay.io/openstack.kolla/centos-source-nova-api:yoga
-quay.io/openstack.kolla/centos-source-nova-base:yoga
-quay.io/openstack.kolla/centos-source-nova-compute:yoga
-quay.io/openstack.kolla/centos-source-nova-compute-ironic:yoga
-quay.io/openstack.kolla/centos-source-nova-conductor:yoga
-quay.io/openstack.kolla/centos-source-novajoin-base:yoga
-quay.io/openstack.kolla/centos-source-novajoin-notifier:yoga
-quay.io/openstack.kolla/centos-source-novajoin-server:yoga
 quay.io/openstack.kolla/centos-source-nova-libvirt:yoga
 quay.io/openstack.kolla/centos-source-nova-mksproxy:yoga
 quay.io/openstack.kolla/centos-source-nova-novncproxy:yoga
