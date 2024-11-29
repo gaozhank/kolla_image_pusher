@@ -1,17 +1,3 @@
-quay.io/openstack.kolla/centos-source-cron:yoga
-quay.io/openstack.kolla/centos-source-cyborg-agent:yoga
-quay.io/openstack.kolla/centos-source-cyborg-api:yoga
-quay.io/openstack.kolla/centos-source-cyborg-base:yoga
-quay.io/openstack.kolla/centos-source-cyborg-conductor:yoga
-quay.io/openstack.kolla/centos-source-designate-api:yoga
-quay.io/openstack.kolla/centos-source-designate-backend-bind9:yoga
-quay.io/openstack.kolla/centos-source-designate-base:yoga
-quay.io/openstack.kolla/centos-source-designate-central:yoga
-quay.io/openstack.kolla/centos-source-designate-mdns:yoga
-quay.io/openstack.kolla/centos-source-designate-producer:yoga
-quay.io/openstack.kolla/centos-source-designate-sink:yoga
-quay.io/openstack.kolla/centos-source-designate-worker:yoga
-quay.io/openstack.kolla/centos-source-dind:yoga
 quay.io/openstack.kolla/centos-source-dnsmasq:yoga
 quay.io/openstack.kolla/centos-source-ec2-api:yoga
 quay.io/openstack.kolla/centos-source-elasticsearch:yoga
