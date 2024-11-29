@@ -1,11 +1,3 @@
-quay.io/openstack.kolla/centos-source-nova-ssh:yoga
-quay.io/openstack.kolla/centos-source-octavia-api:yoga
-quay.io/openstack.kolla/centos-source-octavia-base:yoga
-quay.io/openstack.kolla/centos-source-octavia-driver-agent:yoga
-quay.io/openstack.kolla/centos-source-octavia-health-manager:yoga
-quay.io/openstack.kolla/centos-source-octavia-housekeeping:yoga
-quay.io/openstack.kolla/centos-source-octavia-worker:yoga
-quay.io/openstack.kolla/centos-source-opendaylight:yoga
 quay.io/openstack.kolla/centos-source-opensearch:yoga
 quay.io/openstack.kolla/centos-source-opensearch-dashboards:yoga
 quay.io/openstack.kolla/centos-source-openstack-base:yoga
