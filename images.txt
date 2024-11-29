@@ -1,17 +1,3 @@
-quay.io/openstack.kolla/centos-source-opensearch:yoga
-quay.io/openstack.kolla/centos-source-opensearch-dashboards:yoga
-quay.io/openstack.kolla/centos-source-openstack-base:yoga
-quay.io/openstack.kolla/centos-source-openvswitch-base:yoga
-quay.io/openstack.kolla/centos-source-openvswitch-db-server:yoga
-quay.io/openstack.kolla/centos-source-openvswitch-netcontrold:yoga
-quay.io/openstack.kolla/centos-source-openvswitch-vswitchd:yoga
-quay.io/openstack.kolla/centos-source-ovn-base:yoga
-quay.io/openstack.kolla/centos-source-ovn-controller:yoga
-quay.io/openstack.kolla/centos-source-ovn-nb-db-server:yoga
-quay.io/openstack.kolla/centos-source-ovn-northd:yoga
-quay.io/openstack.kolla/centos-source-ovn-sb-db-server:yoga
-quay.io/openstack.kolla/centos-source-panko-api:yoga
-quay.io/openstack.kolla/centos-source-panko-base:yoga
 quay.io/openstack.kolla/centos-source-placement-api:yoga
 quay.io/openstack.kolla/centos-source-placement-base:yoga
 quay.io/openstack.kolla/centos-source-prometheus-alertmanager:yoga
