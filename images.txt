@@ -1,16 +1,3 @@
-quay.io/openstack.kolla/centos-source-cinder-api:yoga
-quay.io/openstack.kolla/centos-source-cinder-backup:yoga
-quay.io/openstack.kolla/centos-source-cinder-base:yoga
-quay.io/openstack.kolla/centos-source-cinder-scheduler:yoga
-quay.io/openstack.kolla/centos-source-cinder-volume:yoga
-quay.io/openstack.kolla/centos-source-cloudkitty-api:yoga
-quay.io/openstack.kolla/centos-source-cloudkitty-base:yoga
-quay.io/openstack.kolla/centos-source-cloudkitty-processor:yoga
-quay.io/openstack.kolla/centos-source-collectd:yoga
-quay.io/openstack.kolla/centos-source-congress-api:yoga
-quay.io/openstack.kolla/centos-source-congress-base:yoga
-quay.io/openstack.kolla/centos-source-congress-datasource:yoga
-quay.io/openstack.kolla/centos-source-congress-policy-engine:yoga
 quay.io/openstack.kolla/centos-source-cron:yoga
 quay.io/openstack.kolla/centos-source-cyborg-agent:yoga
 quay.io/openstack.kolla/centos-source-cyborg-api:yoga
