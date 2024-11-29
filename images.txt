@@ -1,4 +1,3 @@
-quay.io/openstack.kolla/centos-source-kube-controller-manager:yoga
 quay.io/openstack.kolla/centos-source-kube-discovery:yoga
 quay.io/openstack.kolla/centos-source-kube-proxy:yoga
 quay.io/openstack.kolla/centos-source-kubernetes-entrypoint:yoga
