@@ -1,4 +1,3 @@
-quay.io/openstack.kolla/centos-source-monasca-log-api:yoga
 quay.io/openstack.kolla/centos-source-monasca-notification:yoga
 quay.io/openstack.kolla/centos-source-monasca-persister:yoga
 quay.io/openstack.kolla/centos-source-monasca-thresh:yoga
