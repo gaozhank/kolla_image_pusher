@@ -1,13 +1,3 @@
-quay.io/openstack.kolla/centos-source-gnocchi-api:yoga
-quay.io/openstack.kolla/centos-source-gnocchi-base:yoga
-quay.io/openstack.kolla/centos-source-gnocchi-metricd:yoga
-quay.io/openstack.kolla/centos-source-gnocchi-statsd:yoga
-quay.io/openstack.kolla/centos-source-grafana:yoga
-quay.io/openstack.kolla/centos-source-hacluster-base:yoga
-quay.io/openstack.kolla/centos-source-hacluster-corosync:yoga
-quay.io/openstack.kolla/centos-source-hacluster-pacemaker:yoga
-quay.io/openstack.kolla/centos-source-hacluster-pacemaker-remote:yoga
-quay.io/openstack.kolla/centos-source-hacluster-pcs:yoga
 quay.io/openstack.kolla/centos-source-haproxy:yoga
 quay.io/openstack.kolla/centos-source-heat-all:yoga
 quay.io/openstack.kolla/centos-source-heat-api:yoga
