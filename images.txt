@@ -1,6 +1,3 @@
-quay.io/openstack.kolla/centos-source-letsencrypt:yoga
-quay.io/openstack.kolla/centos-source-logstash:yoga
-quay.io/openstack.kolla/centos-source-logstash6:yoga
 quay.io/openstack.kolla/centos-source-magnum-api:yoga
 quay.io/openstack.kolla/centos-source-magnum-base:yoga
 quay.io/openstack.kolla/centos-source-magnum-conductor:yoga
