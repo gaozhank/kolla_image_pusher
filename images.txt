@@ -1,4 +1,3 @@
-quay.io/openstack.kolla/centos-source-certmonger:yoga
 quay.io/openstack.kolla/centos-source-chrony:yoga
 quay.io/openstack.kolla/centos-source-cinder-api:yoga
 quay.io/openstack.kolla/centos-source-cinder-backup:yoga
