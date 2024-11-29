@@ -1,4 +1,3 @@
-quay.io/openstack.kolla/centos-source-karbor-base:yoga
 quay.io/openstack.kolla/centos-source-karbor-operationengine:yoga
 quay.io/openstack.kolla/centos-source-karbor-protection:yoga
 quay.io/openstack.kolla/centos-source-keepalived:yoga
