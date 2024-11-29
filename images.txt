@@ -1,5 +1,3 @@
-quay.io/openstack.kolla/centos-source-kolla-toolbox:yoga
-quay.io/openstack.kolla/centos-source-kube-apiserver:yoga
 quay.io/openstack.kolla/centos-source-kube-base:yoga
 quay.io/openstack.kolla/centos-source-kube-controller-manager:yoga
 quay.io/openstack.kolla/centos-source-kube-discovery:yoga
