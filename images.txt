@@ -1,1 +1,1 @@
-docker.1panel.live/kolla/centos-source-swift-base
+registry.aliyuncs.com/kolla-helm/ubuntu-source-blazar-base
