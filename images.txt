@@ -19,14 +19,6 @@ quay.io/openstack.kolla/centos-source-ceilometer-central:yoga
 quay.io/openstack.kolla/centos-source-ceilometer-compute:yoga
 quay.io/openstack.kolla/centos-source-ceilometer-ipmi:yoga
 quay.io/openstack.kolla/centos-source-ceilometer-notification:yoga
-quay.io/openstack.kolla/centos-source-ceph-base:yoga
-quay.io/openstack.kolla/centos-source-cephfs-fuse:yoga
-quay.io/openstack.kolla/centos-source-ceph-mds:yoga
-quay.io/openstack.kolla/centos-source-ceph-mgr:yoga
-quay.io/openstack.kolla/centos-source-ceph-mon:yoga
-quay.io/openstack.kolla/centos-source-ceph-nfs:yoga
-quay.io/openstack.kolla/centos-source-ceph-osd:yoga
-quay.io/openstack.kolla/centos-source-ceph-rgw:yoga
 quay.io/openstack.kolla/centos-source-certmonger:yoga
 quay.io/openstack.kolla/centos-source-chrony:yoga
 quay.io/openstack.kolla/centos-source-cinder-api:yoga
