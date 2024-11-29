@@ -1,1 +1,1 @@
-docker.1panel.live/kolla/centos-source-neutron-plugins:train
+docker.1panel.live/kolla/centos-source-swift-base
