@@ -1,12 +1,3 @@
-quay.io/openstack.kolla/centos-source-elasticsearch-curator:yoga
-quay.io/openstack.kolla/centos-source-etcd:yoga
-quay.io/openstack.kolla/centos-source-fluentd:yoga
-quay.io/openstack.kolla/centos-source-freezer-api:yoga
-quay.io/openstack.kolla/centos-source-freezer-base:yoga
-quay.io/openstack.kolla/centos-source-freezer-scheduler:yoga
-quay.io/openstack.kolla/centos-source-glance-api:yoga
-quay.io/openstack.kolla/centos-source-glance-base:yoga
-quay.io/openstack.kolla/centos-source-glance-registry:yoga
 quay.io/openstack.kolla/centos-source-gnocchi-api:yoga
 quay.io/openstack.kolla/centos-source-gnocchi-base:yoga
 quay.io/openstack.kolla/centos-source-gnocchi-metricd:yoga
