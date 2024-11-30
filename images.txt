@@ -1,15 +1,3 @@
-quay.io/openstack.kolla/centos-source-trove-api:yoga
-quay.io/openstack.kolla/centos-source-trove-base:yoga
-quay.io/openstack.kolla/centos-source-trove-conductor:yoga
-quay.io/openstack.kolla/centos-source-trove-guestagent:yoga
-quay.io/openstack.kolla/centos-source-trove-taskmanager:yoga
-quay.io/openstack.kolla/centos-source-vitrage-api:yoga
-quay.io/openstack.kolla/centos-source-vitrage-base:yoga
-quay.io/openstack.kolla/centos-source-vitrage-graph:yoga
-quay.io/openstack.kolla/centos-source-vitrage-ml:yoga
-quay.io/openstack.kolla/centos-source-vitrage-notifier:yoga
-quay.io/openstack.kolla/centos-source-vitrage-persistor:yoga
-quay.io/openstack.kolla/centos-source-vmtp:yoga
 quay.io/openstack.kolla/centos-source-watcher-api:yoga
 quay.io/openstack.kolla/centos-source-watcher-applier:yoga
 quay.io/openstack.kolla/centos-source-watcher-base:yoga
