@@ -1,10 +1,3 @@
-quay.io/openstack.kolla/centos-source-watcher-api:yoga
-quay.io/openstack.kolla/centos-source-watcher-applier:yoga
-quay.io/openstack.kolla/centos-source-watcher-base:yoga
-quay.io/openstack.kolla/centos-source-watcher-engine:yoga
-quay.io/openstack.kolla/centos-source-zaqar-base:yoga
-quay.io/openstack.kolla/centos-source-zaqar-server:yoga
-quay.io/openstack.kolla/centos-source-zaqar-wsgi:yoga
 quay.io/openstack.kolla/centos-source-zookeeper:yoga
 quay.io/openstack.kolla/centos-source-zun-api:yoga
 quay.io/openstack.kolla/centos-source-zun-base:yoga
