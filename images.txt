@@ -1,8 +1,3 @@
-quay.io/openstack.kolla/centos-source-redis:yoga
-quay.io/openstack.kolla/centos-source-redis-base:yoga
-quay.io/openstack.kolla/centos-source-redis-sentinel:yoga
-quay.io/openstack.kolla/centos-source-rsyslog:yoga
-quay.io/openstack.kolla/centos-source-rsyslog-base:yoga
 quay.io/openstack.kolla/centos-source-sahara-api:yoga
 quay.io/openstack.kolla/centos-source-sahara-base:yoga
 quay.io/openstack.kolla/centos-source-sahara-engine:yoga
