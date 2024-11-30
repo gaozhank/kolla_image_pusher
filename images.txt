@@ -1,4 +1,3 @@
-quay.io/openstack.kolla/centos-source-radvd:yoga
 quay.io/openstack.kolla/centos-source-rally:yoga
 quay.io/openstack.kolla/centos-source-redis:yoga
 quay.io/openstack.kolla/centos-source-redis-base:yoga
