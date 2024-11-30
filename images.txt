@@ -1,6 +1,3 @@
-quay.io/openstack.kolla/centos-source-prometheus-v2-server:yoga
-quay.io/openstack.kolla/centos-source-proxysql:yoga
-quay.io/openstack.kolla/centos-source-ptp:yoga
 quay.io/openstack.kolla/centos-source-qdrouterd:yoga
 quay.io/openstack.kolla/centos-source-qinling-api:yoga
 quay.io/openstack.kolla/centos-source-qinling-base:yoga
