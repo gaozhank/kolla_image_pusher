@@ -1,9 +1,3 @@
-quay.io/openstack.kolla/centos-source-sahara-api:yoga
-quay.io/openstack.kolla/centos-source-sahara-base:yoga
-quay.io/openstack.kolla/centos-source-sahara-engine:yoga
-quay.io/openstack.kolla/centos-source-searchlight-api:yoga
-quay.io/openstack.kolla/centos-source-searchlight-base:yoga
-quay.io/openstack.kolla/centos-source-searchlight-listener:yoga
 quay.io/openstack.kolla/centos-source-senlin-api:yoga
 quay.io/openstack.kolla/centos-source-senlin-base:yoga
 quay.io/openstack.kolla/centos-source-senlin-conductor:yoga
