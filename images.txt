@@ -1,5 +1,3 @@
-quay.io/openstack.kolla/centos-source-mariadb-clustercheck:train
-quay.io/openstack.kolla/centos-source-mariadb-server:train
 quay.io/openstack.kolla/centos-source-masakari-api:train
 quay.io/openstack.kolla/centos-source-masakari-base:train
 quay.io/openstack.kolla/centos-source-masakari-engine:train
