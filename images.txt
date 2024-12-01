@@ -1,4 +1,3 @@
-quay.io/openstack.kolla/centos-source-proxysql:train
 quay.io/openstack.kolla/centos-source-ptp:train
 quay.io/openstack.kolla/centos-source-qdrouterd:train
 quay.io/openstack.kolla/centos-source-qinling-api:train
