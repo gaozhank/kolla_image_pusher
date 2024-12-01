@@ -1,7 +1,6 @@
 quay.io/openstack.kolla/centos-source-openstack-base:train
 quay.io/openstack.kolla/centos-source-openvswitch-base:train
 quay.io/openstack.kolla/centos-source-openvswitch-db-server:train
-quay.io/openstack.kolla/centos-source-openvswitch-netcontrold:train
 quay.io/openstack.kolla/centos-source-openvswitch-vswitchd:train
 quay.io/openstack.kolla/centos-source-ovn-base:train
 quay.io/openstack.kolla/centos-source-ovn-controller:train
