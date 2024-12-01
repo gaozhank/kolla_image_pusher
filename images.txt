@@ -1,10 +1,3 @@
-quay.io/openstack.kolla/centos-source-prometheus-memcached-exporter:train
-quay.io/openstack.kolla/centos-source-prometheus-mtail:train
-quay.io/openstack.kolla/centos-source-prometheus-mysqld-exporter:train
-quay.io/openstack.kolla/centos-source-prometheus-node-exporter:train
-quay.io/openstack.kolla/centos-source-prometheus-openstack-exporter:train
-quay.io/openstack.kolla/centos-source-prometheus-server:train
-quay.io/openstack.kolla/centos-source-prometheus-v2-server:train
 quay.io/openstack.kolla/centos-source-proxysql:train
 quay.io/openstack.kolla/centos-source-ptp:train
 quay.io/openstack.kolla/centos-source-qdrouterd:train
