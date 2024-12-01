@@ -1,5 +1,3 @@
-quay.io/openstack.kolla/centos-source-senlin-engine:train
-quay.io/openstack.kolla/centos-source-senlin-health-manager:train
 quay.io/openstack.kolla/centos-source-sensu-api:train
 quay.io/openstack.kolla/centos-source-sensu-base:train
 quay.io/openstack.kolla/centos-source-sensu-client:train
