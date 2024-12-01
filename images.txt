@@ -1,5 +1,4 @@
 quay.io/openstack.kolla/centos-source-prometheus-memcached-exporter:train
-quay.io/openstack.kolla/centos-source-prometheus-msteams:train
 quay.io/openstack.kolla/centos-source-prometheus-mtail:train
 quay.io/openstack.kolla/centos-source-prometheus-mysqld-exporter:train
 quay.io/openstack.kolla/centos-source-prometheus-node-exporter:train
