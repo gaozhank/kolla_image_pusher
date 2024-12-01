@@ -122,7 +122,6 @@ quay.io/openstack.kolla/centos-source-kube-proxy:train
 quay.io/openstack.kolla/centos-source-kubernetes-entrypoint:train
 quay.io/openstack.kolla/centos-source-kube-scheduler:train
 quay.io/openstack.kolla/centos-source-kubetoolbox:train
-quay.io/openstack.kolla/centos-source-letsencrypt:train
 quay.io/openstack.kolla/centos-source-logstash:train
 quay.io/openstack.kolla/centos-source-logstash6:train
 quay.io/openstack.kolla/centos-source-magnum-api:train
