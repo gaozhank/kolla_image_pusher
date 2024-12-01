@@ -1,9 +1,3 @@
-quay.io/openstack.kolla/centos-source-octavia-health-manager:train
-quay.io/openstack.kolla/centos-source-octavia-housekeeping:train
-quay.io/openstack.kolla/centos-source-octavia-worker:train
-quay.io/openstack.kolla/centos-source-opendaylight:train
-quay.io/openstack.kolla/centos-source-opensearch:train
-quay.io/openstack.kolla/centos-source-opensearch-dashboards:train
 quay.io/openstack.kolla/centos-source-openstack-base:train
 quay.io/openstack.kolla/centos-source-openvswitch-base:train
 quay.io/openstack.kolla/centos-source-openvswitch-db-server:train
